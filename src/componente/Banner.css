@@ -1,0 +1,16 @@
+.banner {
+    background-color: blue;
+    height: 80%;
+    width: 100%;
+    position: relative;
+    box-shadow: 15px 17px 16px 23px rgba(0,0,0,0.5);
+    
+
+}
+.textt {
+    position: absolute;
+    font-size: 36px;
+    bottom: 100px;
+    left: 200px;
+   
+}

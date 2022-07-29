@@ -1,0 +1,29 @@
+.fulla {
+  
+    height: 100vh;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+
+}
+
+
+.telo {
+    font-size: 48px;
+    position: absolute;
+    left:  220px;
+
+    
+}
+
+.imaggs {
+    position: relative;
+    
+    left: 500px;
+    height: 55%;
+}
+
+
+
+

@@ -1,0 +1,17 @@
+
+ .black {
+    background-color: black;
+    height: 95vh;
+    margin-bottom: 5vh;
+    width: 100%;
+    display: flex;
+ }
+
+ .coo {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    gap: 20px;
+    align-content: center;
+    justify-content: center;
+ }
